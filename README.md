@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - [Muhammad Varel Antoni]
+# Laporan Proyek Capstone Project (Machine Learning)
 
 ## Project Overview
 
